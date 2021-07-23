@@ -6,7 +6,7 @@ The code repository for "Learning Placeholders for Open-Set Recognition
 
     @inproceedings{zhou2021learning,
     author = {Zhou, Da-Wei and Ye, Han-Jia and Zhan, De-Chuan},
-    title = {Learning Placeholders for Open-Set Recognition.},
+    title = {Learning Placeholders for Open-Set Recognition},
     booktitle = {CVPR},
     pages = {4401-4410},
     year = {2021}
